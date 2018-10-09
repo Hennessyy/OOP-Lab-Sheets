@@ -5,7 +5,7 @@ import java.util.*;
  *  uses some of the Calendar methods  and fields to format its display
  *  such as getDisplayName, Calendar.MONTH and Calendar.LONG
  */
-public class DateTest4 {
+/*public class DateTest4 {
    public static void main( String args[] ) {
       GregorianCalendar today,birthday;
       // capture today's date
@@ -26,4 +26,4 @@ public class DateTest4 {
       String dayName = birthday.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.US);
       JOptionPane.showMessageDialog(null,"on a " + dayName);
    }
-}
+}*/
